@@ -1,0 +1,315 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Mid
+vAbit_ALU
+Z1 !s110 1557690142
+!i10b 1
+!s100 idk;]<j<9UDX1gVPIPJba2
+IkQ0UIO>B^;i2=PCQH:<2i1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1557501249
+8E:/Mid/Abit_ALU.v
+FE:/Mid/Abit_ALU.v
+L0 2
+Z4 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z5 !s108 1557690142.000000
+!s107 E:/Mid/Abit_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/Abit_ALU.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@abit_@a@l@u
+vALU
+R1
+!i10b 1
+!s100 flVY7QKN]I4MmoGH91Pm40
+I4TGkDWbi4XEATJRePXPIj1
+R2
+R0
+w1557651279
+8E:/Mid/ALU.v
+FE:/Mid/ALU.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/ALU.v|
+!s101 -O0
+!i113 1
+R6
+n@a@l@u
+vALUControl
+R1
+!i10b 1
+!s100 @0B:Z3N]8XzFgfe9>RMTS0
+ITjDA>5KTcfh]F]?6bQLiE2
+R2
+R0
+w1557665033
+8E:/Mid/ALUControl.v
+FE:/Mid/ALUControl.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/ALUControl.v|
+!s101 -O0
+!i113 1
+R6
+n@a@l@u@control
+vFA
+R1
+!i10b 1
+!s100 5f04Hd@8caYm<2LboT=OG1
+IK5mJNajIilXM>9HA7KdCo1
+R2
+R0
+w1557426929
+8E:/Mid/FA.v
+FE:/Mid/FA.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/FA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/FA.v|
+!s101 -O0
+!i113 1
+R6
+n@f@a
+vHiLo
+R1
+!i10b 1
+!s100 iG29[iOUb8M32E[_mmCTE3
+IOKFz4i621KlB9Gk^_LXK20
+R2
+R0
+w1557686148
+8E:/Mid/HiLo.v
+FE:/Mid/HiLo.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/HiLo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/HiLo.v|
+!s101 -O0
+!i113 1
+R6
+n@hi@lo
+vMultiplier
+!s110 1557689028
+!i10b 1
+!s100 6a3ocG1NZEobEd;9D0h6X1
+IgOkd4?ke39Ez`Y9SdY;5O0
+R2
+R0
+w1557689024
+Z7 8E:\Mid\multiplier.v
+Z8 FE:\Mid\multiplier.v
+L0 61
+R4
+r1
+!s85 0
+31
+!s108 1557689028.000000
+Z9 !s107 E:\Mid\multiplier.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|E:\Mid\multiplier.v|
+!s101 -O0
+!i113 1
+R6
+n@multiplier
+vmultiplier
+R1
+!i10b 1
+!s100 L5^U69b9:58GheN6LN9Hi2
+IIlhJF6A0l=nZ4TTQ4WcgW3
+R2
+R0
+w1557690136
+R7
+R8
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+R9
+R10
+!s101 -O0
+!i113 1
+R6
+vMUX
+R1
+!i10b 1
+!s100 [J`Vi3b>=JU8nGG;N9@OK2
+IcMR`WSCS;=^7k0jFDh>jf2
+R2
+R0
+w1557643229
+8E:/Mid/MUX.v
+FE:/Mid/MUX.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/MUX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/MUX.v|
+!s101 -O0
+!i113 1
+R6
+n@m@u@x
+vShifter
+R1
+!i10b 1
+!s100 Fb86[[YFBDTfcmEz6nJz=2
+IF4D`>S;ZcI]KTHGm5[m@X3
+R2
+R0
+w1557501242
+8E:/Mid/Shifter.v
+FE:/Mid/Shifter.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/Shifter.v|
+!s101 -O0
+!i113 1
+R6
+n@shifter
+vShifter_mux2x1
+R1
+!i10b 1
+!s100 ]o^n35N]jz5JXnm5E8E;>0
+IP;7P;Lgj0N7]3J6MnOg]:2
+R2
+R0
+R3
+8E:/Mid/Shifter_mux2x1.v
+FE:/Mid/Shifter_mux2x1.v
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/Shifter_mux2x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/Shifter_mux2x1.v|
+!s101 -O0
+!i113 1
+R6
+n@shifter_mux2x1
+vsub
+R1
+!i10b 1
+!s100 d7ddNl_4TNPPbizm?YYz]2
+IFh3U8Eb]PN]J;VJ7OUQg`1
+R2
+R0
+w1557426928
+8E:/Mid/sub.v
+FE:/Mid/sub.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/sub.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/sub.v|
+!s101 -O0
+!i113 1
+R6
+vtb_ALU
+R1
+!i10b 1
+!s100 FUA3]BhHV[hm9kCLSze:<0
+IldK<H9bM8XB98K[KWI]Fg0
+R2
+R0
+w1557665336
+8E:/Mid/tb_ALU.v
+FE:/Mid/tb_ALU.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/tb_ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/tb_ALU.v|
+!s101 -O0
+!i113 1
+R6
+ntb_@a@l@u
+vtest_banch
+!s110 1557655527
+!i10b 1
+!s100 GBn4IYNcHk]^0o_;_FXf`1
+IKND1k1CjA^]2E:LOTz>1C3
+R2
+R0
+w1557652852
+8E:/Mid/asd/test_banch.v
+FE:/Mid/asd/test_banch.v
+L0 2
+R4
+r1
+!s85 0
+31
+!s108 1557655527.000000
+!s107 E:/Mid/asd/test_banch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/asd/test_banch.v|
+!s101 -O0
+!i113 1
+R6
+vTotalALU
+R1
+!i10b 1
+!s100 ==X9oI??BFYCl`M>]IXJ=3
+I;beLgeU^28H5Wz[KA[B<C1
+R2
+R0
+w1557656125
+8E:/Mid/TotalALU.v
+FE:/Mid/TotalALU.v
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 E:/Mid/TotalALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|E:/Mid/TotalALU.v|
+!s101 -O0
+!i113 1
+R6
+n@total@a@l@u

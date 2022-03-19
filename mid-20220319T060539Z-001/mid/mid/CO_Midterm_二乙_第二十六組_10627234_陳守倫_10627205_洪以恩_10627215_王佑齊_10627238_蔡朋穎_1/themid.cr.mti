@@ -1,0 +1,85 @@
+E:/Mid/multiplier.v {1 {vlog -work work -stats=none {E:\Mid\multiplier.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} E:/Mid/tb_ALU.v {1 {vlog -work work -stats=none E:/Mid/tb_ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_ALU
+
+Top level modules:
+	tb_ALU
+
+} {} {}} E:/Mid/Shifter_mux2x1.v {1 {vlog -work work -stats=none E:/Mid/Shifter_mux2x1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter_mux2x1
+
+Top level modules:
+	Shifter_mux2x1
+
+} {} {}} E:/Mid/ALUControl.v {1 {vlog -work work -stats=none E:/Mid/ALUControl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} E:/Mid/Shifter.v {1 {vlog -work work -stats=none E:/Mid/Shifter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} E:/Mid/TotalALU.v {1 {vlog -work work -stats=none E:/Mid/TotalALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TotalALU
+
+Top level modules:
+	TotalALU
+
+} {} {}} E:/Mid/FA.v {1 {vlog -work work -stats=none E:/Mid/FA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} E:/Mid/Abit_ALU.v {1 {vlog -work work -stats=none E:/Mid/Abit_ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Abit_ALU
+
+Top level modules:
+	Abit_ALU
+
+} {} {}} E:/Mid/ALU.v {1 {vlog -work work -stats=none E:/Mid/ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} E:/Mid/MUX.v {1 {vlog -work work -stats=none E:/Mid/MUX.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MUX
+
+Top level modules:
+	MUX
+
+} {} {}} E:/Mid/sub.v {1 {vlog -work work -stats=none E:/Mid/sub.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sub
+
+Top level modules:
+	sub
+
+} {} {}} E:/Mid/HiLo.v {1 {vlog -work work -stats=none E:/Mid/HiLo.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module HiLo
+
+Top level modules:
+	HiLo
+
+} {} {}}
