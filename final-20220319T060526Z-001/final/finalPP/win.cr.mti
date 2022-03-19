@@ -1,0 +1,141 @@
+E:/finalPP/EX_to_MEM.v {1 {vlog -work work -stats=none E:/finalPP/EX_to_MEM.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module EX_to_MEM
+
+Top level modules:
+	EX_to_MEM
+
+} {} {}} E:/finalPP/Shifter.v {1 {vlog -work work -stats=none E:/finalPP/Shifter.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} E:/finalPP/reg_file.v {1 {vlog -work work -stats=none E:/finalPP/reg_file.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} E:/finalPP/TotalALU.v {1 {vlog -work work -stats=none E:/finalPP/TotalALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module TotalALU
+
+Top level modules:
+	TotalALU
+
+} {} {}} E:/finalPP/FA.v {1 {vlog -work work -stats=none E:/finalPP/FA.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} E:/finalPP/Abit_ALU.v {1 {vlog -work work -stats=none E:/finalPP/Abit_ALU.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Abit_ALU
+
+Top level modules:
+	Abit_ALU
+
+} {} {}} E:/finalPP/memory.v {1 {vlog -work work -stats=none E:/finalPP/memory.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} E:/finalPP/alu.v {1 {vlog -work work -stats=none E:/finalPP/alu.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} E:/finalPP/mips_single.v {1 {vlog -work work -stats=none E:/finalPP/mips_single.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mips_single
+
+Top level modules:
+	mips_single
+
+} {} {}} E:/finalPP/ID_to_EX.v {1 {vlog -work work -stats=none E:/finalPP/ID_to_EX.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ID_to_EX
+
+Top level modules:
+	ID_to_EX
+
+} {} {}} E:/finalPP/reg32.v {1 {vlog -work work -stats=none E:/finalPP/reg32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} E:/finalPP/IF_to_ID.v {1 {vlog -work work -stats=none E:/finalPP/IF_to_ID.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module IF_to_ID
+
+Top level modules:
+	IF_to_ID
+
+} {} {}} E:/finalPP/add32.v {1 {vlog -work work -stats=none E:/finalPP/add32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} E:/finalPP/tb_SingleCycle.v {1 {vlog -work work -stats=none E:/finalPP/tb_SingleCycle.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} {E:/finalPP/sign extend.v} {1 {vlog -work work -stats=none {E:/finalPP/sign extend.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} E:/finalPP/MEM_to_WB.v {1 {vlog -work work -stats=none E:/finalPP/MEM_to_WB.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module MEM_to_WB
+
+Top level modules:
+	MEM_to_WB
+
+} {} {}} E:/finalPP/Shifter_mux2x1.v {1 {vlog -work work -stats=none E:/finalPP/Shifter_mux2x1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Shifter_mux2x1
+
+Top level modules:
+	Shifter_mux2x1
+
+} {} {}} E:/finalPP/control_single.v {1 {vlog -work work -stats=none E:/finalPP/control_single.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control_single
+
+Top level modules:
+	control_single
+
+} {} {}} E:/finalPP/mux2.v {1 {vlog -work work -stats=none E:/finalPP/mux2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} E:/finalPP/alu_ctl.v {1 {vlog -work work -stats=none E:/finalPP/alu_ctl.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}}
